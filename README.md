@@ -42,7 +42,7 @@ sudo bash -c "$(curl -sL https://github.com/iamtheted/transfer-me/raw/main/insta
 > If you're using `Marzban`, enter `marzban down` in your current Master server then enter `marzban restart` in your destination server.
 
 > [!TIP]
-> If you're using `X-UI`, enter `x-ui stop` in your current Master server then enter `x-ui restart` in your destination server.
+> If you're using `X-UI`, enter `x-ui stop` in your current Master server then enter `x-ui restart` in your destination server. Also, keep in mind that `SSL certificate` in X-UI is usually located at your desired path, therefore you need to move that to the destination server yourself or use custom directory option to transfer it.
 
 > [!TIP]
 > If you're using `Hiddify`, enter the following commands in your current Master server:

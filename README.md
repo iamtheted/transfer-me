@@ -67,3 +67,7 @@ bash /opt/hiddify-manager/restart.sh
 ## Support
 
 A Star (⭐) is enough, I appreciate it.
+
+However, if you've found this script useful you can donate `mahak charity` through the following link:
+
+- https://mahak-charity.org/online-payment
